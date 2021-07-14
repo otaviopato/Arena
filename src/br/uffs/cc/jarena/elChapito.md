@@ -4,10 +4,11 @@
 ---------------------------------------------------------------------------------------------
 
   o agente implementado tem o nome de EL CHAPITO e foi escolhido de forma aleatória. O agente vai ser colocado na arena para batalhar com os inimigos. 
+  
 
 ## Locomoção 
 -----------------------------------------------------------------------------------------------
-Quando o agente chega no final do mapa, através do metódo "pensa", ele se move para outra direção aleatória. 
+Quando o agente chega identifica que está no final do mapa e não pode se locomover, através do metódo "pensa" e o direção, ele se move para outra direção aleatória.  
 
 ## Divisão do agente
 -----------------------------------------------------------------------------------------------
@@ -19,5 +20,5 @@ Se a energia do agente for maior do que 1100, ele se divide por igual.<br>O agen
 
 ## Autores ##
 
-[Paulo Nunes](https://github.com/Paulocc)
+[Paulo Nunes](https://github.com/Paulocc)<br>
 [Otávio Pato](https://github.com/otaviopato)
