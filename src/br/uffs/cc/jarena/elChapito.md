@@ -3,7 +3,7 @@
 ## Descrição
 ---------------------------------------------------------------------------------------------
 
-  o agente implementado tem o nome de EL CHAPITO e foi escolhido de forma aleatória, o agente vai ser colocado na arena para batalhar com os inimigos. 
+  o agente implementado tem o nome de EL CHAPITO e foi escolhido de forma aleatória. O agente vai ser colocado na arena para batalhar com os inimigos. 
 
 ## Locomoção 
 -----------------------------------------------------------------------------------------------
@@ -17,3 +17,7 @@ Se a energia do agente for maior do que 1100, ele se divide por igual.<br>O agen
 -----------------------------------------
 À medida que o agente se encontra com o inimigo, ele se move para outra direção que é escolhida aleatoriamente e tenta se esquivar para se proteger. 
 
+## Autores ##
+
+[Paulo Nunes](https://github.com/Paulocc)
+[Otávio Pato](https://github.com/otaviopato)
